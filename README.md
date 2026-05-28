@@ -36,7 +36,7 @@ The project contains the following datasets:
 
 The following schema represents the relational database structure used in this project.
 
-![Database Schema](image\(13\).png)
+schema.png
 
 ---
 
