@@ -40,52 +40,7 @@ The following schema represents the relational database structure used in this p
 
 ---
 
-# 🗄 Database Tables
 
-## 1. City
-
-Contains:
-
-* city_id
-* city_name
-* population
-* estimated_rent
-* city_rank
-
----
-
-## 2. Products
-
-Contains:
-
-* product_id
-* product_name
-* price
-
----
-
-## 3. Customers
-
-Contains:
-
-* customer_id
-* customer_name
-* city_id
-
----
-
-## 4. Sales
-
-Contains:
-
-* sale_id
-* sale_date
-* product_id
-* customer_id
-* total
-* rating
-
----
 
 # 🔑 Key SQL Concepts Used
 
@@ -203,25 +158,10 @@ This project helped in:
 
 ---
 
-# 📁 Project Structure
 
-```bash
-Coffee-Shop-SQL-Project/
-│
-├── Coffee_Shop_SQL_Project.sql
-├── README.md
-├── city.csv
-├── products.csv
-├── customers.csv
-├── sales.csv
-└── image(13).png
-```
-
----
 
 # 👨‍💻 Author
 
 Anand Yadav
 
-MBA (Finance & Operations Analytics)
-Aspiring Data Analyst | SQL | Power BI | Python | Excel
+
