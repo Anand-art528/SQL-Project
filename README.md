@@ -36,6 +36,7 @@ The project contains the following datasets:
 
 The following schema represents the relational database structure used in this project.
 
+![image alt](https://github.com/Anand-art528/SQL-Project/blob/main/schema.png?raw=true)
 
 
 ---
