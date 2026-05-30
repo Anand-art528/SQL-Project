@@ -97,11 +97,8 @@ Measured customer reach across cities.
 
 Compared customer revenue with estimated city rent.
 
-## 9. Monthly Sales Growth Analysis
-
-Calculated month-over-month sales growth using window functions.
-
-## 10. Business Expansion Recommendation
+.
+## 9. Business Expansion Recommendation
 
 Identified the best cities for business expansion based on:
 
